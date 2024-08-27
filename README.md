@@ -21,7 +21,7 @@ Todays Years old and saw a post i.e r/unixporn and went to customize my own term
 ### What u can do
 * Uncomment the option u don't love and comment the one u don't wanna see
 * change the image_backend to w3m || other to support images and different format (**Default:ascii**)
-* Love the Default but wanna add a custom image use **jp2a**.
+* Love the Default ascii logo but wanna add a custom ascii-image use **jp2a --colors** To keep the original colors or check -h **man-page**  
 * If u wanna give it a rainbow like color (which i don't usually prefer u can use **lolcat**)
 
 ### Issue:
